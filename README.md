@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@OmSharmaCI" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="45" height="45" />
   </a>
 </p>
 
