@@ -1,4 +1,4 @@
-<h1 align="center">𝗢𝗺 𝗦𝗵𝗮𝗿𝗺𝗮</h1>
+<h1 align="center">𝗢𝗺 𝗦𝗵𝗮𝗿𝗺𝗮 ✦ 𝗢𝗦𝗖𝗜 </h1>
 <p align="center">
   <code>𝘗𝘺𝘵𝘩𝘰𝘯 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵</code> • <code>𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘓𝘪𝘯𝘶x</code>
 </p>
