@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Sharma</h1>
-<h3 align="center">I have fun when i code</h3>
+<h3 align="center">I have fun when I code</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
