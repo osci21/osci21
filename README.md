@@ -1,10 +1,39 @@
-<h1 align="center">Hi 👋, I'm Om Sharma</h1>
-<h3 align="center">I have fun when I code</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/omsharmaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omsharmaci" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&secondaryColor=00ff88&height=140&section=header&text=%F0%9D%95%86%F0%9D%95%9E%20%F0%9D%95%9A%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%9E%F0%9D%95%92&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <code>𝟷𝟽𝟿𝚌𝚖 𝙳𝚒𝚜𝚝𝚛action-𝘍𝘳𝘦𝘦 𝘚𝘱𝘢𝘤𝘦</code> • <code>𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</code> • <code>𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</code>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@OmSharmaCl" target="blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+---
+
+### 🪐 𝚃𝚑𝚎 𝚂𝚝𝚊𝚌𝚔
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py,pandas,linux,mysql,html,css" alt="skills" />
+  </a>
+</p>
+
+---
+
+### 📊 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osci21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osci21&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/badge/counter/visitors.svg?username=osci21&color=00ff88&style=flat-square" alt="Views" />
+</p>
