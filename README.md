@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@OmSharmaCl" target="_blank">
+  <a href="https://www.youtube.com/@OmSharmaCI" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
