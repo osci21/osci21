@@ -11,7 +11,7 @@
 
 ---
 
-### 🪐 𝔗𝔥𝔢 𝔖𝔱𝔞𝔠𝔨
+### 🪐 𝑻𝒉𝒆 𝑺𝒕𝒂𝒄𝒌
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -36,7 +36,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/badge/counter/visitors.svg?username=osci21&color=00ff88&style=flat-square" alt="Views" />
-</p>
