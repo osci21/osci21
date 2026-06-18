@@ -1,6 +1,6 @@
-<h1 align="center">𝔒𝔪 𝔖𝔥𝔞𝔯𝔪𝔞</h1>
+<h1 align="center">𝗢𝗺 𝗦𝗵𝗮𝗿𝗺𝗮</h1>
 <p align="center">
-  <code>𝘗𝘺𝘵𝘩𝘰𝘯 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵</code> • <code>𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘓𝘪𝘯𝘶𝘪</code> • <code>𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵 𝘚𝘱𝘢𝘤𝘦</code>
+  <code>𝘗𝘺𝘵𝘩𝘰𝘯 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵</code> • <code>𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘓𝘪𝘯𝘶x</code>
 </p>
 
 <p align="center">
@@ -36,12 +36,6 @@
 </p>
 
 ---
-
-### 📊 𝔖𝔱𝔞𝔱𝔰
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osci21&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/badge/counter/visitors.svg?username=osci21&color=00ff88&style=flat-square" alt="Views" />
