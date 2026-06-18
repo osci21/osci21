@@ -1,5 +1,3 @@
-# Om Sharma
-
 ```python
 >>> interests
 ['Python', 'Linux', 'Cybersecurity', 'Open Source']
